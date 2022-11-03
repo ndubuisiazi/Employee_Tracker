@@ -35,7 +35,7 @@ INSERT INTO roles (
     department_id
     )
 VALUES
-    (100,"Software Engineer",115000,1001),
-    (200,"Product Designer",110000,1002),
-    (300,"Scrum Master",100000,1003),
-    (400,"Tech Lead",160000,1004);
+    (100,"Software Engineer",115000,2001),
+    (200,"Product Designer",110000,2002),
+    (300,"Scrum Master",100000,2003),
+    (400,"Tech Lead",160000,2004);
