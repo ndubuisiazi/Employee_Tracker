@@ -48,7 +48,8 @@ To run the application, open your terminal, navigate to the project folder, and 
 
 ## Walkthrough Video
 
-[Click here](#) to watch the walkthrough video demonstrating the functionality of the Employee Tracker application.
+[Click here](https://watch.screencastify.com/v/7lylJep3gZACyGXynS0S) to watch the walkthrough video demonstrating the functionality of the Employee Tracker application.
+
 
 ## Technologies Used
 
@@ -73,6 +74,6 @@ There are currently no tests available for this application.
 
 If you have any questions, please feel free to contact me.
 
-GitHub: [your-github-username](https://github.com/ndubuisiazi)
+GitHub: [ndubuisiazi](https://github.com/ndubuisiazi)
 
 Email: Ndubuisi.Azi@gmail.com
