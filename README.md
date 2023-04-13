@@ -73,6 +73,6 @@ There are currently no tests available for this application.
 
 If you have any questions, please feel free to contact me.
 
-GitHub: [your-github-username](https://github.com/your-github-username)
+GitHub: [your-github-username](https://github.com/ndubuisiazi)
 
-Email: your.email@example.com
+Email: Ndubuisi.Azi@gmail.com
